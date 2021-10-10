@@ -1,0 +1,41 @@
+.card{
+    width: 20rem;
+    height: 100;
+    background-color: rgb(113, 202, 179);
+    padding: 2px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-top: 10px;
+    color:rgb(30, 8, 65);
+    border:1px solid #282c34 ;
+    border-radius: 15px;
+
+  
+}
+.card img{
+    width: 100%;
+    border-radius: 15px;
+}
+.author-details{
+    text-align: center;
+    padding: 5px;
+
+}
+.btn{
+    background-color: rgb(2, 41, 60);
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+    color: whitesmoke;
+    width: 50%;
+    margin: auto;
+}
+strong{
+    margin-left: 5px;
+}
+.icon{
+    text-align: center;
+    margin-bottom: 5px;
+}

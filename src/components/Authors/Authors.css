@@ -1,0 +1,13 @@
+.Authors-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    background-color: gray;
+    padding-bottom: 10px;
+}
+.All-authors{
+    margin-left: 100px;
+    border-right: 2px solid gray;
+    padding-right: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
